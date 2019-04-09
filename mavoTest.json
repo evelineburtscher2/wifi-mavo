@@ -1,5 +1,9 @@
 {
 	"title": "Hello World save in github",
 	"title_sub": "Das ist mein Subtitle",
-	"list": "      liste                                     "
+	"list": [
+		"Elemet1                                   ",
+		"Element 3",
+		"Element 4"
+	]
 }
